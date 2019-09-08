@@ -1,0 +1,6 @@
+imap <C-H> <Left>
+imap <C-J> <Down>
+imap <C-K> <Up>
+imap <C-L> <Right>
+inoremap jj <Esc>
+
